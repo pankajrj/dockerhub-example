@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t pankajrj24/webserver .
+docker build -t pankaj24/webserver .
